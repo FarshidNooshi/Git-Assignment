@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>In The Name Of GOD</h1>
+</div>
+
 # Git practical assignment
 
 There are 4 exercises; for each one, you need to `checkout` to its branch specified in `{problem_name}/README.md`. After that, complete the tasks in **the same branch**.
